@@ -18,3 +18,9 @@ Usage
 1. Upload resume and job description.
 2. Run the analysis workflow.
 3. Review the detailed report.
+
+Contributing
+Contributions are welcome! Please fork the repo and submit a pull request.
+
+License
+MIT License
