@@ -1,4 +1,4 @@
-# Resume-Analyser
+# Resume Analyser
 Resume Analyzer is a no-code AI workflow project built with Agent.ai that evaluates resumes against job descriptions. It identifies matches, gaps, and provides actionable insights to enhance job applications.
 
 Features
