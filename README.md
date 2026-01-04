@@ -24,3 +24,6 @@ Resume Analyzer is a no-code AI workflow project built with Agent.ai that evalua
 
 ## License
 - MIT License
+
+- ![Documentation](https://img.shields.io/badge/Type-Competitive%20Solutions-blue)
+- ![Status](https://img.shields.io/badge/Status-Validated%20Submission-brightgreen)
